@@ -1,6 +1,6 @@
 {
   "name": "anti-hung",
-  "version": "0.6.5",
+  "version": "0.6.6",
   "description": "Keeps chats from hanging: \"continue\" when the network is back, and compact then continue on prompt-too-long or context-limit stops",
   "author": {
     "name": "wise-toddler"
